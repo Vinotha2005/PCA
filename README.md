@@ -23,9 +23,10 @@ Multiple Classification Algorithms – Support Vector Machine (SVM), Logistic Re
 Model Evaluation – Accuracy, Precision, Recall, F1-Score, Confusion Matrix, ROC Curve
 
 Visualization – PCA-based 2D data visualization, confusion matrix heatmap, ROC curves
+
 <img width="666" height="547" alt="image" src="https://github.com/user-attachments/assets/c38bf1c7-03fd-4f59-aeb4-055b5aae45f4" />
-<img width="705" height="516" alt="image" src="https://github.com/user-attachments/assets/0c5236b2-a56d-4ded-82c0-fbc3e159a997" />
-<img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/e14f31c0-3959-4d96-81ee-a2b6b8a17e15" />
+
+<img width="883" height="747" alt="image" src="https://github.com/user-attachments/assets/8f92e808-631f-434c-9f19-ebba5135315e" />
 
 
 ## 🛠️ Tech Stack
@@ -72,6 +73,10 @@ Reduce Dimensions – Apply PCA for 2D visualization
 Train Models – Fit multiple classifiers
 
 Evaluate – Compute accuracy, precision, recall, F1-score, and plot confusion matrices & ROC curves
+
+Visualize Feature Contributions to PC1 and PC2
+<img width="705" height="516" alt="image" src="https://github.com/user-attachments/assets/1a317108-e26d-4cde-a9f8-44c1a56aa27d" />
+
 
 Visualize – Plot Cummulative explained Variance
 <img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/8e82dca6-ed73-4407-9db4-a719f1e328c6" />
