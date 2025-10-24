@@ -1,0 +1,13 @@
+prefix=C:/PCA/env/Library
+exec_prefix=C:/PCA/env/Library
+libdir=C:/PCA/env/Library/lib
+sharedlibdir=C:/PCA/env/Library/lib
+includedir=C:/PCA/env/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
